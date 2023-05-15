@@ -1,4 +1,4 @@
-## Weather Appv in react.
+## Weather App in react.
 
 - This is a weather app, in which as soon as you insert the name of the location it shows the temperature.
 - I have used the axios method to call the api.
